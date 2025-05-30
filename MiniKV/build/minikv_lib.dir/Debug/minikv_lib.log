@@ -1,0 +1,18 @@
+﻿  Building Custom Rule C:/Users/amane/Documents/Dev/cpp_playground/MiniKV/CMakeLists.txt
+  kvstore.cpp
+  sstable.cpp
+C:\Users\amane\Documents\Dev\cpp_playground\MiniKV\src\sstable.cpp(66,35): warning C4305: 'argument': truncation from 'int' to 'const _Elem'
+C:\Users\amane\Documents\Dev\cpp_playground\MiniKV\src\sstable.cpp(66,35): warning C4305:         with
+C:\Users\amane\Documents\Dev\cpp_playground\MiniKV\src\sstable.cpp(66,35): warning C4305:         [
+C:\Users\amane\Documents\Dev\cpp_playground\MiniKV\src\sstable.cpp(66,35): warning C4305:             _Elem=char
+C:\Users\amane\Documents\Dev\cpp_playground\MiniKV\src\sstable.cpp(66,35): warning C4305:         ]
+C:\Users\amane\Documents\Dev\cpp_playground\MiniKV\src\sstable.cpp(66,35): warning C4309: 'argument': truncation of constant value
+C:\Users\amane\Documents\Dev\cpp_playground\MiniKV\src\sstable.cpp(101,34): warning C4305: 'argument': truncation from 'int' to 'const _Elem'
+C:\Users\amane\Documents\Dev\cpp_playground\MiniKV\src\sstable.cpp(101,34): warning C4305:         with
+C:\Users\amane\Documents\Dev\cpp_playground\MiniKV\src\sstable.cpp(101,34): warning C4305:         [
+C:\Users\amane\Documents\Dev\cpp_playground\MiniKV\src\sstable.cpp(101,34): warning C4305:             _Elem=char
+C:\Users\amane\Documents\Dev\cpp_playground\MiniKV\src\sstable.cpp(101,34): warning C4305:         ]
+C:\Users\amane\Documents\Dev\cpp_playground\MiniKV\src\sstable.cpp(101,34): warning C4309: 'argument': truncation of constant value
+  utils.cpp
+  Generating Code...
+  minikv_lib.vcxproj -> C:\Users\amane\Documents\Dev\cpp_playground\MiniKV\build\Debug\minikv_lib.lib

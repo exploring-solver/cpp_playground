@@ -1,0 +1,5 @@
+C:/Users/amane/Documents/Dev/cpp_playground/MiniKV/build/CMakeFiles/minikv_lib.dir
+C:/Users/amane/Documents/Dev/cpp_playground/MiniKV/build/CMakeFiles/minikv.dir
+C:/Users/amane/Documents/Dev/cpp_playground/MiniKV/build/CMakeFiles/INSTALL.dir
+C:/Users/amane/Documents/Dev/cpp_playground/MiniKV/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/amane/Documents/Dev/cpp_playground/MiniKV/build/CMakeFiles/ZERO_CHECK.dir
